@@ -1,0 +1,2 @@
+system:index,absolute_VV_threshold_dB,difference_threshold_dB,flood_area_ha,flood_area_km2,flood_area_m2,flood_end,flood_start,orbit,pre_flood_end,pre_flood_start,.geo
+0,-16,2,326.98721682614774,3.2698721682614775,3269872.1682614777,2021-08-01,2021-07-02,DESCENDING,2021-07-01,2021-06-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
